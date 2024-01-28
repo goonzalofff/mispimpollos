@@ -13,7 +13,7 @@
 body {
   margin: 0;
   font-family: "Inconsolata";
-  background:url(/depositphotos_201388010-stock-illustration-color-handprint-background-concept-human.jpg);
+  background:./url(/depositphotos_201388010-stock-illustration-color-handprint-background-concept-human.jpg);
 }
 img {
   width: 150px;
